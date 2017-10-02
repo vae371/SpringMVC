@@ -1,5 +1,5 @@
 # SpringMVC
-This is a web application built using Spring MVC, Hibernate and AJAX
+This is a web application built using Spring MVC, Hibernate, JSP and AJAX
 
 User can sign up by email verification, change password, search and view movie details, upload avatar and share comments
 
